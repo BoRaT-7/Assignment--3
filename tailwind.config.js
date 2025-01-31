@@ -6,3 +6,13 @@ module.exports = {
     },
     plugins: [],
   }
+  // tailwind.config.js
+module.exports = {
+  theme: {
+    extend: {
+      colors: {
+        'custom-pink': '#E7C1D3',
+      },
+    },
+  },
+};
